@@ -1,4 +1,4 @@
-# UI Basics - Exam 1
+# UI Basics 
 
 - Work from the `index.html` file and a CSS stylesheet
 - You are allowed to research online, but write your own code - don't use AI
